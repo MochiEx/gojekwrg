@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("purple","              WAROENGINTERNET\n");
+echo color("purple","              𝙈𝙤𝙘𝙝𝙞 𝙠𝙞𝙮𝙤𝙬𝙤✗\n");
 echo color("white","        AUTO REGIST & CLAIM VOUCHER\n" );
 echo color("white","          ".hari_ini().date('m-Y H:i:s') ." \n\n ");
 echo color("white","            Format Nomor 62***\n");
@@ -49,7 +49,7 @@ function change(){
                 echo "\n".color("green"," [x1] DISKON 50% Naik GoCar pake GoPay maks. Rp30.000");
                 sleep(1);
                 echo "\n".color("green"," [x1] DISKON GO-FOOD 50%!");
-                echo "\n\n".color("white","              @waroenginternet      ");
+                echo "\n\n".color("white","              @mochikiyowo      ");
                 echo "\n".color("white","      Silahkan Masuk ke VMOS/AppClone");
                 for($a=1;$a<=3;$a++){
                         echo color("white",".");
